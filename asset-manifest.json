@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/GunnarE/static/css/main.c918f940.chunk.css",
+    "main.js": "/GunnarE/static/js/main.ffb9f4c1.chunk.js",
+    "main.js.map": "/GunnarE/static/js/main.ffb9f4c1.chunk.js.map",
+    "runtime-main.js": "/GunnarE/static/js/runtime-main.49bd664c.js",
+    "runtime-main.js.map": "/GunnarE/static/js/runtime-main.49bd664c.js.map",
+    "static/js/2.bbf4ce2d.chunk.js": "/GunnarE/static/js/2.bbf4ce2d.chunk.js",
+    "static/js/2.bbf4ce2d.chunk.js.map": "/GunnarE/static/js/2.bbf4ce2d.chunk.js.map",
+    "index.html": "/GunnarE/index.html",
+    "precache-manifest.4d05c1820f4d53ff15a2919ffca399d3.js": "/GunnarE/precache-manifest.4d05c1820f4d53ff15a2919ffca399d3.js",
+    "service-worker.js": "/GunnarE/service-worker.js",
+    "static/css/main.c918f940.chunk.css.map": "/GunnarE/static/css/main.c918f940.chunk.css.map",
+    "static/js/2.bbf4ce2d.chunk.js.LICENSE.txt": "/GunnarE/static/js/2.bbf4ce2d.chunk.js.LICENSE.txt",
+    "static/media/LnadingText.svg": "/GunnarE/static/media/LnadingText.a2a8711a.svg",
+    "static/media/Title_falling.png": "/GunnarE/static/media/Title_falling.a27539b1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49bd664c.js",
+    "static/js/2.bbf4ce2d.chunk.js",
+    "static/css/main.c918f940.chunk.css",
+    "static/js/main.ffb9f4c1.chunk.js"
+  ]
+}
