@@ -9,6 +9,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={landing} className="App-logo" alt="logo" />
+        <p className="Quote">"My falls allow me to rise high"
+            <br/>
+        - Gunnar Enserro
+        </p>
       </header>
     </div>
   );

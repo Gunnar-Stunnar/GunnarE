@@ -16,7 +16,14 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: black;
+}
+
+.Quote{
+  font-style: oblique;
+  font-weight: 200;
+  text-align: left;
+  margin-top: 0px;
 }
 
 .App-link {
