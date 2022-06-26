@@ -33,14 +33,14 @@ SHARCQ is developed by my friend and colleage Kristoffer Lauridsen. As stated, t
 ## Neural Best Buddies (NBB)
 
 <div>
-    <img src="../media/Sharcq/nbb.png" width="50%" style="margin-left:auto; margin-right:auto;display:block;">
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/nbb.png" width="50%" style="margin-left:auto; margin-right:auto;display:block;">
 </div>
 
 One of the major challenges faced were aligning brain images with a standard model (Atlas Space). Method developed in SHARCQ were to have a reseracher go image by image and select landmark points on the image that will morph the image. We discovered NBB, this is a method which uses current vision models in machine learning (ML) to identify key landmarks between images in a corresponding domain.   
 
 <div style="overflow:auto; ">
-    <img src="../media/Sharcq/MouseBrain.png" width="30%" height="100%" style="float:right; display:block;">
-    <img src="../media/Sharcq/AtlasBrain.png" width="30%" style="float:left; display:block;"/>
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/MouseBrain.png" width="30%" height="100%" style="float:right; display:block;">
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/AtlasBrain.png" width="30%" style="float:left; display:block;"/>
 </div>
 
 ### Transform Mouse to Atlas
@@ -48,20 +48,20 @@ One of the major challenges faced were aligning brain images with a standard mod
 The next challange was transforming/morphing the Mouse Brain to the Atlas space. At first We tried Homography, a method that adjust a  2d plane in 3d space to create a squeezing, rotation, and other various linear transforms. This was decent but not meeting out expectation for a quality Image overlay. Below is an overview of what Homography is trying to accomplish.  
 
 <div>
-    <img src="../media/Sharcq/homography.jpeg" width="50%" style="margin-left:auto; margin-right:auto;display:block;">
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/homography.jpeg" width="50%" style="margin-left:auto; margin-right:auto;display:block;">
 </div>
 
 Working through the math we were certain we needed a non-linear method for Image morphing. We came across a method of using a triangular mesh that would transform over triangles from one mesh to another linearly reconstructing the mesh in a different space. Below is a picture of the triangle mesh being placed over the Mouse Brain. 
 
 <div style="overflow:auto; ">
-    <img src="../media/Sharcq/MouseTriangle.png" width="30%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/MouseTriangle.png" width="30%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
 </div>
 
 We already had the Homography figured out so transforming the triangles to the other mesh was easy. You can see the final output of the whole registration in the below image. The bottom left is the original mouse brain, moving up and over is the flow from transform to overlay. 
 
 
 <div style="overflow:auto; ">
-    <img src="../media/Sharcq/Fulltrans.png" width="100%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/Fulltrans.png" width="100%" height="100%" style=" display:block; margin-left:auto; margin-right:auto;">
 </div>
 
 ## Cell Count
