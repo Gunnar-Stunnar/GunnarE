@@ -78,5 +78,5 @@ The limitation of our software was when the markers would mark the membrane
 ## Original Paper
 
 ```pdf
-	../media/papers/ENEURO.0483-21.2022.full.pdf
+	https://gunnar-stunnar.github.io/GunnarE/media/papers/ENEURO.0483-21.2022.full.pdf
 ```
