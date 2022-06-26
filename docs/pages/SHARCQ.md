@@ -5,7 +5,7 @@
 >**S**lice **H**istology **A**lignment **R**egistration and **C**ell **Q**uantification
 
 <div>
-    <img src="../media/Sharcq/SHARCQ.png" width="50%" style="margin-left:auto; margin-right:auto;display:block;">
+    <img src="https://gunnar-stunnar.github.io/GunnarE/media/Sharcq/SHARCQ.png" width="50%" style="margin-left:auto; margin-right:auto;display:block;">
 </div>
 
 ## Overview
