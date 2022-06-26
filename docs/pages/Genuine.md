@@ -5,4 +5,4 @@
 
 
 ## website design 
-![SHARCQ](../media/designs/Genuine_full_design.png)
+![SHARCQ](/../media/designs/Genuine_full_design.png)
