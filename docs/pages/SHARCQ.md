@@ -67,7 +67,9 @@ We already had the Homography figured out so transforming the triangles to the o
 ## Cell Count
 The next challange we faced was counting cells in the images, We were for some images using florescent markers that would label the cells body. This method was easy to identify as the cell bodies were just a very white blob. We used algorithms like connected compounents and watershed to identify and count the cells accurately with marginal error. 
 
-[useful tutorial on this](https://pyimagesearch.com/2015/11/02/watershed-opencv/)
+[useful tutorial on cell counting](https://pyimagesearch.com/2015/11/02/watershed-opencv/)
+
+The limitation of our software was when the markers would mark the membrane
 
 
 <!-- ![image alt ><]() -->
