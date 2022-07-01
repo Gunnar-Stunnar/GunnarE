@@ -8,3 +8,6 @@
 
 * Design & Apps
     * [Genuine Inc: design](/pages/Genuine.md)
+
+* ART
+    * [deepArt - creative outlet](/pages/deepArt.md)
