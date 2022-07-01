@@ -18,7 +18,7 @@ Take and freely use what I publish in here, but I recommend you reference me for
 3. Java
 4. C++
 
-# Contact Me
+## Contact Me
 
 Email: <gjenserro@gmail.com>
 

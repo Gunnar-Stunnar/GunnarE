@@ -12,15 +12,15 @@
 </head>
 <body>
   <div id="app"></div>
+  <!-- <div data-app id="main">Please wait...</div> -->
   <script>
     window.$docsify = {
-      name: 'Gunnars Portfolio',
+      name: 'Gunnar\'s Portfolio',
       repo: '',
       coverpage: false,
       loadSidebar: true,
-      loadSidebar: true,
       subMaxLevel: 1,
-      
+      el: '#app'
     }
   </script>
   <!-- Docsify v4 -->
@@ -29,5 +29,7 @@
   <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
   <!-- or use this if you are not hosting the file yourself -->
   <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+  <script src="//unpkg.com/docsify-slides/dist/docsify-slides.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
