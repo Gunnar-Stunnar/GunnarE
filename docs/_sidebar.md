@@ -11,3 +11,4 @@
 
 * ART
     * [deepArt - creative outlet](/pages/deepArt.md)
+    * [Celluar Music Visualizer](/pages/CMV.md)

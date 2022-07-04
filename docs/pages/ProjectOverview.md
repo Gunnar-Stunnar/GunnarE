@@ -2,26 +2,25 @@
 
 ## DeepSEA-SHARCQ
 
-DeepSEA-SHARCQ is a project to speed up neroscience research through various ML models completing redudent task. I was placed in charge of building and exploring the various ML models and applying them. I do everything from organizing team memebers to leading efforts in figuring out challanging features. In the month of woking on this team, I have applied many image registration models and advanced features not thought to be possible. The team is considering me lead Author of the paper.
+DeepSEA-SHARCQ is a project to speed up Neroscience research through various ML models completing redudent tasks. I was placed in charge of building and exploring the various ML models and applying them. I performed tasks ranging from managing team memebers to figuring out challanging features. In the last month of working on this team, I have applied several image registration models and advanced features not thought to be possible. The team is considering me for the lead author of the paper.
 
-### Link to project page
-[DeepSEA-SHARCQ: Brain Imaging](/pages/SHARCQ.md)
-
+[DeepSEA-SHARCQ: Brain Imaging](/pages/SHARCQ.md) \
+[DeepSEA-SHARCQ: Github](https://github.com/wildrootlab/DeepSEA-SHARCQ)
 ----
 
 ## Stunn Inc.
 
-Stunn is a company I am working on to get up and running, the philosphy is to find generalizable models of data that are cheap to maintain and used by various companys. My main role is to manage tech and advance the companys knowledge. I do everything from research to product development. For Stunns first customer I reserached a method for strong document OCR and built the pipeline that can scale up to 10,000 pages a day and manage heavy loads. I worked with my partner to understand clients needs and ensure above and beyond service.
+Stunn is a company I am starting with a partner to get up and running. The philosphy is to find generalizable models of data that are cheap to maintain and utilized by various companys. My main role is to manage tech and advance the companys knowledge. I perform research for product development. For Stunns first customer I reserached a method for strong document Optical Character Recognition (OCR) and built the pipeline that can scale up to 10,000 pages a day and manage heavy loads. I worked with my partner to understand clients needs and ensure above and beyond service.
 
-[Stunn Inc. Website](https://stunn.ai)
+
+[Stunn Inc: Website](https://stunn.ai)
 
 ----
 
 ## Genuine Inc.
 
-Genuine is a small corporation I started in response to the high amount of loneliness after the COVID-19 Pandemic. I led the concept of an app focused on making 'Genuine' Connctions between users. I managed a team with a professional designer and software engineer to do everything from design, frontend development, backend development, and data analytics. I wrote software that made up the functionality of the product. Our team buit a prototype, took ideas to production that would give us competitive advantages.
+Genuine is a small corporation I started in response to the high amount of loneliness after the COVID-19 Pandemic. I led the concept of an app focused on making 'Genuine' Connctions between users. I managed a team with a professional designer and software engineer to do everything from design, frontend development, backend development, and data analytics. I wrote software that made up the functionality of the product. Our team built a prototype, took ideas to production that would give us competitive advantages.
 
-### App design overview
 [Genuine Inc: design](/pages/Genuine.md)
 
 ----
@@ -32,8 +31,10 @@ Day job doing app development for both IOS and Android. Worked with everything f
 
 ## TTEC 
 
-While in High school I worked for a fortue 500 named TTEC, I help construct statistics engines and innovate the product. I would do reserach into complex NLP task to find if tricks exist that could eneable realtime predictions for help desk employees helping customers. By the end of the internship I was working with BERT, a text encoding model, to classify questions and context of questions preposed by clients to help desk workers.   
+While in High school I worked for a fortue 500 company named TTEC. I help construct statistic engines and innovate the product. I did reserach into complex NLP tasks that could eneable realtime predictions for help desk employees. By the end of the internship I was working with BERT, a text encoding model, to classify questions and context of questions preposed by clients to help desk workers.   
+
+----
 
 ## Qusic
 
-Qusic was my first ever mobile app I built. It enabled users to queue songs are parties in resturants all with out interacting with the DJ. I did a small launch of the app and had the app grow to 200 users organically in the first month. I had to shut it down after awhile for school was going on and I could not maintaine it. Some awesome ideas I was figuring out how were how to make it all hands free. I user could walk into a bar or resturant and the playlist is curated to who is at the location. I was able to derive the math and techniques to do such thing.
+Qusic was my first ever mobile app I built. It enabled users to queue songs at parties and resturants with out interacting with the DJ. I did a small launch of the app and had the app grow to 200 users organically in the first month. I shut it down due to school demands. An awesome idea I figured out was how to make it hands free. A user could walk into a bar or resturant and the playlist curated to who's at the location. I developed the idea and prototyped it.

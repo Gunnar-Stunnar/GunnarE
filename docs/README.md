@@ -7,9 +7,9 @@
 
 Here is where I document ideas, code, and thoughts I have on past and present projects!
 
-Not everything in this journal is complete, some ideas are on going or retired.
+Not everything in this journal is complete, some ideas are ongoing or retired.
 
-Take and freely use what I publish in here, but I recommend you reference me for my work. I have spent countless hour on some of these and hope it brings curiosity, hope, and connection. 
+Take and freely use what I publish here, but I recommend you reference me for my work. I have spent countless hour on some of these and hope it brings curiosity, hope, and connection. 
 
 #### Top used Languages
 
